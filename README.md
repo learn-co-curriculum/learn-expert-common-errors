@@ -15,7 +15,8 @@ You may be able to pick out the syntax error with your skilled javascript eyes, 
 
 This is a quick way to find the error _and_ give the student the tools find it on their own the next time.
 
-**Video Example** [Capybara testing, difference between visit vs page expects](https://youtu.be/FYsM3V5GMuE)
+### Capybara Common Error With Students
+**Video Example** [technical coach helping a student with a routing error, student confused on capybara testing, difference between visit vs page expects](https://youtu.be/FYsM3V5GMuE)
 
 ## Resources 
 
